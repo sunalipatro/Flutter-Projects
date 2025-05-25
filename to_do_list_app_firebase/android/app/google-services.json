@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985750503589",
+    "project_id": "to-do-list-app-firebase-f6357",
+    "storage_bucket": "to-do-list-app-firebase-f6357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985750503589:android:4fcd9acb56f10688b00d4c",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTyx8GiRM3hf6R5GuXf_OPt6XT3XOhDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
